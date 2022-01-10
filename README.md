@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : shayanrahman75@gmail.com -->
 
+<p align="center">
+<img src:"https://readme-typing-svg.herokuapp.com?color=%23F14CC7&lines=I+am+a+Full+Stack+Developer..;Love+Coding+%7C%7C+Developing+%7C%7C+Debugging..;Show+your+appreciation+by+following...+%3C3+">
+</p>
+<hr/>
 
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
