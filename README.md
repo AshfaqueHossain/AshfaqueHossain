@@ -5,7 +5,7 @@
 - 📫 How to reach me : shayanrahman75@gmail.com -->
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaquehossain&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaquehossain" /> </p>
 
@@ -17,9 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaquehossain&show_icons=true&locale=en&layout=compact" alt="ashfaquehossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaquehossain&show_icons=true&locale=en" alt="ashfaquehossain" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ashfaquehossain&show_icons=true&locale=en" alt="ashfaquehossain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaquehossain&" alt="ashfaquehossain" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaquehossain&" alt="ashfaquehossain" /></p>
 
 
 
