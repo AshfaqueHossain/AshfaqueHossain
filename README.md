@@ -5,7 +5,16 @@
 - 📫 How to reach me : shayanrahman75@gmail.com -->
 
 <p align="center">
-<img src:"https://readme-typing-svg.herokuapp.com?color=%23F14CC7&lines=I+am+a+Full+Stack+Developer..;Love+Coding+%7C%7C+Developing+%7C%7C+Debugging..;Show+your+appreciation+by+following...+%3C3+">
+  <a href="https://github.com/AshfaqueHossain">
+    <img align="center" src="coder.gif.gif" width="300">
+  </a>
+</p>
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%23F14CC7&lines=I+am+a+Full+Stack+Developer..;Love+Coding+%7C%7C+Developing+%7C%7C+Debugging..;Show+your+appreciation+by+following...+%3C3+">
 </p>
 <hr/>
 
