@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Ashfaque75
+<!-- - 👋 Hi, I’m @Ashfaque75
 - 👀 I’m interested in coading, developing IT projects
 - 🌱 I’m currently studying for my BSc degree in CSE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : shayanrahman75@gmail.com
+- 📫 How to reach me : shayanrahman75@gmail.com -->
+
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashfaquehossain&label=Profile%20views&color=0e75b6&style=flat" alt="ashfaquehossain" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashfaquehossain" alt="ashfaquehossain" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashfaquehossain&show_icons=true&locale=en&layout=compact" alt="ashfaquehossain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashfaquehossain&show_icons=true&locale=en" alt="ashfaquehossain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashfaquehossain&" alt="ashfaquehossain" /></p>
+
 
 <!---
 Ashfaque75/Ashfaque75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
